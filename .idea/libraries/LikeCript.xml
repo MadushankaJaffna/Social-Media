@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LikeCript">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/LikeCript.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
